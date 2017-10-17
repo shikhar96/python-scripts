@@ -1,3 +1,3 @@
-#Launches the web browser with my GitHub page
+#Launches the web browser with Facebook.
 import webbrowser
 webbrowser.open('https://www.facebook.com')
